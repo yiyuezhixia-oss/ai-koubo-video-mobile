@@ -1,0 +1,22 @@
+# Secrets and local runtime data
+backend/.env
+backend/db.sqlite3
+backend/media/
+backend/logs/
+*.log
+*.pid
+
+# Python and JavaScript build artifacts
+.venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+
+# Local QA and delivery artifacts
+测试截图/
+交付物/
+output/
+docx_render_*/
+frontend/screenshot*.png
+frontend/vite*.log
