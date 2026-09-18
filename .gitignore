@@ -19,4 +19,5 @@ frontend/dist/
 output/
 docx_render_*/
 frontend/screenshot*.png
+frontend/public/test-upload.mp4
 frontend/vite*.log
