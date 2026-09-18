@@ -1,0 +1,5 @@
+django
+django-simpleui
+pytest
+boto3
+mutagen
